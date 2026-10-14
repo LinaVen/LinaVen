@@ -56,19 +56,19 @@ I'm currently seeking opportunities in graduate and junior software development,
 
 ## 🚀 Featured Projects
 
-### 📚 Book Review Hub
+### 📚 [Book Review Hub](https://github.com/LinaVen/BookReviewHub)
 Full-stack web application developed using ASP.NET Core MVC, Web API, Entity Framework Core, and SQL Server.
 
-### ☁️ AWS Serverless File Processor
+### ☁️ [AWS Serverless File Processor](https://github.com/LinaVen/AWS-Serverless-File-Processor)
 Serverless application using AWS S3, Lambda, DynamoDB, and CloudWatch to process file upload and deletion events.
 
-### 🌐 AWS EFS Load Balancer Website
+### 🌐 [AWS EFS Load Balancer Website](https://github.com/LinaVen/AWS-EFS-LoadBalancer-Website)
 Cloud computing project implementing EC2, EFS, Application Load Balancer, Auto Scaling, and S3.
 
-### 🔐 Cisco CCNA: Switching, Routing, and Wireless Essentials
+### 🔐 [Cisco CCNA: Switching, Routing, and Wireless Essentials](https://github.com/LinaVen/Cisco-CCNA-SRWE)
 Practical networking project completed using Cisco Packet Tracer, covering switching, routing, network security, DHCP, and wireless networking.
 
-### 🃏 Blackjack Game
+### 🃏 [Blackjack Game](https://github.com/LinaVen/BlackJackGame)
 C# console application developed in Visual Studio.
 
 ---
